@@ -1,0 +1,19 @@
+{
+  "name": "e_commerce_test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engine": {
+    "node": "20.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mssql": "^11.0.1"
+  }
+}
